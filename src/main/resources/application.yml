@@ -1,0 +1,8 @@
+endpoint:
+  googleSearch: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyD6CeTyVoR_UZJ6uEkzYhXx9hqXtsOXmNY&cx=016467694089086313056:52t2gmph4dq&q='
+  googleSecSearch: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyD6CeTyVoR_UZJ6uEkzYhXx9hqXtsOXmNY&cx=016467694089086313056:upzah0atso4&q='
+  googleFacebookSearch: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyD6CeTyVoR_UZJ6uEkzYhXx9hqXtsOXmNY&cx=016467694089086313056:eo1mkmpxrq0&q='
+  googleTwitterSearch: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyD6CeTyVoR_UZJ6uEkzYhXx9hqXtsOXmNY&cx=016467694089086313056:pr-cd-rqne8&q='
+  googleLinkedinSearch: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyD6CeTyVoR_UZJ6uEkzYhXx9hqXtsOXmNY&cx=016467694089086313056:syeispqsdye&q='
+  googleInstagramSearch: 'https://www.googleapis.com/customsearch/v1?key=AIzaSyD6CeTyVoR_UZJ6uEkzYhXx9hqXtsOXmNY&cx=016467694089086313056:8rfol4kzi0m&q='
+
