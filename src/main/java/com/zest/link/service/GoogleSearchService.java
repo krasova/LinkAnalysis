@@ -70,7 +70,6 @@ public class GoogleSearchService {
 
         StringBuilder content = new StringBuilder();
 
-        // open the stream and put it into BufferedReader
         BufferedReader bufferedReader = new BufferedReader(
                 new InputStreamReader(conn.getInputStream()));
 

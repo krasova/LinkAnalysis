@@ -30,8 +30,7 @@ public class GoogleSearchController {
     @RequestMapping(value = "/{name}/save",
             method = RequestMethod.GET)
     public @ResponseBody
-    List<String> getPersonInformation(@PathVariable("name") String name) throws Exception {
-//        return googleSearchService.fetchHtmlByURL();
+    String getPersonInformation(@PathVariable("name") String name) throws Exception {
         return nlpService.getPersonInformation(name);
     }
 
